@@ -1,6 +1,6 @@
 {
   "name": "cols",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI utility for parsing columns",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/kanatzidis/cols",
   "dependencies": {
+    "commander": "^2.7.1",
     "readline": "0.0.7"
   }
 }
